@@ -6,7 +6,7 @@ public class App {
          // Creamos varias instancias de personas
          Persona per1 = new Persona("20222444L", "María", "Carcelén Sánchez", 67);
          Persona per2 = new Persona("20222445M", "José", "Serrano Márquez", 25);
-         Persona per3 = new Persona("64578488K","Pedro", "De la Calle García", 55);
+         Persona per3 = new Persona("64578488K","PePe", "De la Calle García", 55);
          
          //Almacenamos las instancias de personas en un array
          Persona[] arrayPersonas = new Persona[3];
