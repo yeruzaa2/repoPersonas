@@ -9,7 +9,7 @@ public class Persona {
     private int edad;
 
     static final int MAYORIA_EDAD = 18;
-    static final int JUBILACION_EDAD = 65;
+    static final int JUBILACION_EDAD = 70;
 
     public Persona(String dni, String nombre, String apellidos, int edad) {
         this.dni = dni;
